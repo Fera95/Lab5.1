@@ -1,0 +1,61 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/GoTouch/Documents/GitHub/Lab5/simulation/modelsim
+vCounter
+Z1 DXx6 sv_std 3 std 0 22 AD7iAPLo6nTIKk<N0eo=D3
+!s110 1556260936
+!i10b 1
+!s100 73N8zc6nXVMXHAV0=PSWR1
+Ih1O9iOG`59RVi0Oadim_J0
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+!s105 Counter_sv_unit
+S1
+R0
+w1556259043
+8C:/Users/GoTouch/Documents/GitHub/Lab5/Counter.sv
+FC:/Users/GoTouch/Documents/GitHub/Lab5/Counter.sv
+L0 1
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+!s108 1556260936.000000
+!s107 C:/Users/GoTouch/Documents/GitHub/Lab5/Counter.sv|
+!s90 -reportprogress|300|-sv|-work|work|+incdir+C:/Users/GoTouch/Documents/GitHub/Lab5|C:/Users/GoTouch/Documents/GitHub/Lab5/Counter.sv|
+!i113 1
+o-sv -work work
+!s92 -sv -work work +incdir+C:/Users/GoTouch/Documents/GitHub/Lab5
+Z4 tCvgOpt 0
+n@counter
+vCounter_tb
+R1
+!s110 1556261006
+!i10b 1
+!s100 SbWNZY2<HfHlbO<o>?cBg3
+I@P4V=MnV5E:=onA1_GiT<1
+R2
+!s105 Counter_tb_sv_unit
+S1
+R0
+w1556260901
+8C:/Users/GoTouch/Documents/GitHub/Lab5/Counter_tb.sv
+FC:/Users/GoTouch/Documents/GitHub/Lab5/Counter_tb.sv
+L0 1
+R3
+r1
+!s85 0
+31
+!s108 1556261006.000000
+!s107 C:/Users/GoTouch/Documents/GitHub/Lab5/Counter_tb.sv|
+!s90 -reportprogress|300|-work|work|C:/Users/GoTouch/Documents/GitHub/Lab5/Counter_tb.sv|
+!i113 1
+o-work work
+R4
+n@counter_tb

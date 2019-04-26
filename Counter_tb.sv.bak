@@ -1,0 +1,16 @@
+module Counter_tb();
+
+	logic clk;
+	logic enable;
+	logic reset;
+	logic count;
+	Counter#10 dut(clk,reset,enable,count);
+	initial begin
+
+		 enable = 1; 
+		 reset = 0;
+	
+	end
+	
+
+endmodule

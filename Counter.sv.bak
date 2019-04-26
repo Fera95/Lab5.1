@@ -1,0 +1,5 @@
+module Counter #(parameter N=10)
+(logic input Count,Load,Clear,Clock
+logic output [9:0] Output)
+
+endmodule

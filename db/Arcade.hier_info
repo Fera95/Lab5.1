@@ -1,0 +1,43 @@
+|Counter
+clk_i => q_o[0]~reg0.CLK
+clk_i => q_o[1]~reg0.CLK
+clk_i => q_o[2]~reg0.CLK
+clk_i => q_o[3]~reg0.CLK
+clk_i => q_o[4]~reg0.CLK
+clk_i => q_o[5]~reg0.CLK
+clk_i => q_o[6]~reg0.CLK
+clk_i => q_o[7]~reg0.CLK
+clk_i => q_o[8]~reg0.CLK
+clk_i => q_o[9]~reg0.CLK
+rst_i => q_o[0]~reg0.ACLR
+rst_i => q_o[1]~reg0.ACLR
+rst_i => q_o[2]~reg0.ACLR
+rst_i => q_o[3]~reg0.ACLR
+rst_i => q_o[4]~reg0.ACLR
+rst_i => q_o[5]~reg0.ACLR
+rst_i => q_o[6]~reg0.ACLR
+rst_i => q_o[7]~reg0.ACLR
+rst_i => q_o[8]~reg0.ACLR
+rst_i => q_o[9]~reg0.ACLR
+ena_i => q_o[9]~reg0.ENA
+ena_i => q_o[8]~reg0.ENA
+ena_i => q_o[7]~reg0.ENA
+ena_i => q_o[6]~reg0.ENA
+ena_i => q_o[5]~reg0.ENA
+ena_i => q_o[4]~reg0.ENA
+ena_i => q_o[3]~reg0.ENA
+ena_i => q_o[2]~reg0.ENA
+ena_i => q_o[1]~reg0.ENA
+ena_i => q_o[0]~reg0.ENA
+q_o[0] << q_o[0]~reg0.DB_MAX_OUTPUT_PORT_TYPE
+q_o[1] << q_o[1]~reg0.DB_MAX_OUTPUT_PORT_TYPE
+q_o[2] << q_o[2]~reg0.DB_MAX_OUTPUT_PORT_TYPE
+q_o[3] << q_o[3]~reg0.DB_MAX_OUTPUT_PORT_TYPE
+q_o[4] << q_o[4]~reg0.DB_MAX_OUTPUT_PORT_TYPE
+q_o[5] << q_o[5]~reg0.DB_MAX_OUTPUT_PORT_TYPE
+q_o[6] << q_o[6]~reg0.DB_MAX_OUTPUT_PORT_TYPE
+q_o[7] << q_o[7]~reg0.DB_MAX_OUTPUT_PORT_TYPE
+q_o[8] << q_o[8]~reg0.DB_MAX_OUTPUT_PORT_TYPE
+q_o[9] << q_o[9]~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+
